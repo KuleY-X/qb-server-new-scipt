@@ -1,0 +1,72 @@
+
+2022-9-29 19:30:35 // F 3 L O N シ (license:932068fa021280cd8b9fc1f87f7dbe59d3f3bbb1) opened Rockstar Editor
+2022-10-14 5:59:38 // thari (license:2a9f794845b29916486b2622233524038b7a1c81) began recording
+2022-10-14 6:0:51 // thari (license:2a9f794845b29916486b2622233524038b7a1c81) saved a recording
+2022-10-14 6:1:2 // thari (license:2a9f794845b29916486b2622233524038b7a1c81) opened Rockstar Editor
+2022-10-26 19:38:49 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-26 19:39:0 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-26 19:40:7 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-26 19:40:20 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-26 21:1:36 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-26 21:1:48 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-26 21:26:11 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-26 21:26:27 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-27 17:24:12 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-27 17:24:15 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-27 17:24:20 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-27 17:24:21 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-27 17:24:25 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) discarded a recording
+2022-10-27 17:24:27 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-27 17:24:53 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-27 19:7:31 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-27 19:7:49 // 11 LB | Mac (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-27 20:49:20 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:49:41 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) discarded a recording
+2022-10-27 20:49:49 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:50:12 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:51:0 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:51:26 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:51:30 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:52:4 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:52:21 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:52:42 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:53:9 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:54:20 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:54:40 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:54:45 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:54:50 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:54:51 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:55:16 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:55:18 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:56:4 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:56:9 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:56:13 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:56:17 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:56:49 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:57:26 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:57:57 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-27 20:58:11 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) began recording
+2022-10-27 20:58:25 // Randy x (license:1fb839f7f17e36d7635cbdd3ba0cc14d0130ced1) saved a recording
+2022-10-28 14:51:16 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 14:51:25 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-28 14:52:52 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 14:53:3 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-28 14:54:59 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 14:55:7 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-28 17:18:31 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 17:18:44 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-28 17:51:18 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 19:31:16 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 19:31:31 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-28 19:32:6 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 19:32:35 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-10-28 19:35:46 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-10-28 19:36:0 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-11-1 19:46:5 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-11-1 19:46:22 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-11-1 19:46:42 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-11-1 19:46:43 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-11-1 20:41:48 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-11-1 20:41:58 // u (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
+2022-11-12 4:15:59 // GREEN (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) began recording
+2022-11-12 4:16:6 // GREEN (license:48f52c74987e684a3580c9b1e4499e7a0c0ba16c) saved a recording
